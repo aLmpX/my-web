@@ -1,0 +1,261 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "name": "นายเมธา งามเสงี่ยม",
+      "studentId": "6630250389",
+      "department": "วิทยาการคอมพิวเตอร์",
+      "school": "มหาวิทยาลัยเกษตรศาสตร์ ศรีราชา"
+    }
+  ],
+  "courses": [
+    {
+      "term": "ภาคต้น 2566",
+      "code": "01418112",
+      "credit": 3,
+      "nameTh": "แนวคิดการโปรแกรมเบื้องต้น",
+      "nameEn": "Fundamental Programming Concepts",
+      "grade": "B"
+    },
+    {
+      "term": "ภาคต้น 2566",
+      "code": "01999021",
+      "credit": 3,
+      "nameTh": "ภาษาไทยเพื่อการสื่อสาร",
+      "nameEn": "Thai Language for Communication",
+      "grade": "C"
+    },
+    {
+      "term": "ภาคต้น 2566",
+      "code": "01418141",
+      "credit": 3,
+      "nameTh": "ทรัพย์สินทางปัญญาและจรรยาบรรณวิชาชีพ",
+      "nameEn": "Intellectual Properties and Professional Ethics",
+      "grade": "B"
+    },
+    {
+      "term": "ภาคต้น 2566",
+      "code": "01418111",
+      "credit": 2,
+      "nameTh": "วิทยาการคอมพิวเตอร์เบื้องต้น",
+      "nameEn": "Introduction to Computer Science",
+      "grade": "D"
+    },
+    {
+      "term": "ภาคต้น 2566",
+      "code": "01417111",
+      "credit": 3,
+      "nameTh": "แคลคูลัส I",
+      "nameEn": "Calculus I",
+      "grade": "D+"
+    },
+    {
+      "term": "ภาคต้น 2566",
+      "code": "01999111",
+      "credit": 2,
+      "nameTh": "ศาสตร์แห่งแผ่นดิน",
+      "nameEn": "Knowledge of the Land",
+      "grade": "A"
+    },
+    {
+      "term": "ภาคต้น 2566",
+      "code": "01355102",
+      "credit": 3,
+      "nameTh": "ภาษาอังกฤษในมหาวิทยาลัย",
+      "nameEn": "English for University Life",
+      "grade": "F"
+    },
+    {
+      "term": "ภาคต้น 2566",
+      "code": "01355101",
+      "credit": 3,
+      "nameTh": "ภาษาอังกฤษในชีวิตประจำวัน",
+      "nameEn": "English for Everyday Life",
+      "grade": "P"
+    },
+    {
+      "term": "ภาคต้น 2566",
+      "code": "03751112",
+      "credit": 3,
+      "nameTh": "สังคมและการเมือง",
+      "nameEn": "Social and Politics",
+      "grade": "C"
+    },
+    {
+      "term": "ภาคปลาย 2566",
+      "code": "01175118",
+      "credit": 1,
+      "nameTh": "แชร์บอลเพื่อสุขภาพ",
+      "nameEn": "Chair Ball for Health",
+      "grade": "A"
+    },
+    {
+      "term": "ภาคปลาย 2566",
+      "code": "01999041",
+      "credit": 3,
+      "nameTh": "เศรษฐศาสตร์เพื่อการดำเนินชีวิตที่ดี",
+      "nameEn": "Economics for Better Living",
+      "grade": "C"
+    },
+    {
+      "term": "ภาคปลาย 2566",
+      "code": "01418113",
+      "credit": 3,
+      "nameTh": "การโปรแกรมคอมพิวเตอร์",
+      "nameEn": "Computer Programming",
+      "grade": "D+"
+    },
+    {
+      "term": "ภาคปลาย 2566",
+      "code": "01418131",
+      "credit": 3,
+      "nameTh": "การโปรแกรมทางสถิติ",
+      "nameEn": "Statistical Programming",
+      "grade": "D+"
+    },
+    {
+      "term": "ภาคปลาย 2566",
+      "code": "03654111",
+      "credit": 3,
+      "nameTh": "สุนทรียศาสตร์ทางการกีฬา",
+      "nameEn": "Aesthetics of Sport",
+      "grade": "B"
+    },
+    {
+      "term": "ภาคปลาย 2566",
+      "code": "01418132",
+      "credit": 3,
+      "nameTh": "หลักสูตรคณนา",
+      "nameEn": "Fundamentals of Computing",
+      "grade": "W"
+    },
+    {
+      "term": "ภาคปลาย 2566",
+      "code": "01417322",
+      "credit": 3,
+      "nameTh": "พีชคณิตเชิงเส้นพื้นฐาน",
+      "nameEn": "Basic Linear Algebra",
+      "grade": "W"
+    },
+    {
+      "term": "ภาคต้น 2567",
+      "code": "01174231",
+      "credit": 2,
+      "nameTh": "นันทนาการเบื้องต้น",
+      "nameEn": "Introduction to Recreation",
+      "grade": "C+"
+    },
+    {
+      "term": "ภาคต้น 2567",
+      "code": "01355102",
+      "credit": 3,
+      "nameTh": "ภาษาอังกฤษในมหาวิทยาลัย",
+      "nameEn": "English for University Life",
+      "grade": "C+"
+    },
+    {
+      "term": "ภาคต้น 2567",
+      "code": "01418211",
+      "credit": 3,
+      "nameTh": "การสร้างซอฟต์แวร์",
+      "nameEn": "Software Construction",
+      "grade": "C+"
+    },
+    {
+      "term": "ภาคต้น 2567",
+      "code": "01418223",
+      "credit": 3,
+      "nameTh": "วิทยาการข้อมูลและโปรแกรมประยุกต์",
+      "nameEn": "Data Science and Application Programs",
+      "grade": "B+"
+    },
+    {
+      "term": "ภาคต้น 2567",
+      "code": "01418231",
+      "credit": 3,
+      "nameTh": "โครงสร้างข้อมูลและขั้นตอนวิธี",
+      "nameEn": "Data Structures and Algorithms",
+      "grade": "C"
+    },
+    {
+      "term": "ภาคต้น 2567",
+      "code": "01418233",
+      "credit": 3,
+      "nameTh": "สถาปัตยกรรมคอมพิวเตอร์",
+      "nameEn": "Computer Architecture",
+      "grade": "C"
+    },
+    {
+      "term": "ภาคต้น 2567",
+      "code": "01999012",
+      "credit": 3,
+      "nameTh": "สุขภาพเพื่อชีวิต",
+      "nameEn": "Health for Life",
+      "grade": "W"
+    },
+    {
+      "term": "ภาคปลาย 2567",
+      "code": "01418214",
+      "credit": 1,
+      "nameTh": "การฝึกปฏิบัติการพัฒนาซอฟต์แวร์",
+      "nameEn": "Practicum in Software Development",
+      "grade": "N"
+    },
+    {
+      "term": "ภาคปลาย 2567",
+      "code": "01418132",
+      "credit": 3,
+      "nameTh": "หลักสูตรคณนา",
+      "nameEn": "Fundamentals of Computing",
+      "grade": "N"
+    },
+    {
+      "term": "ภาคปลาย 2567",
+      "code": "01418236",
+      "credit": 3,
+      "nameTh": "ระบบปฏิบัติการ",
+      "nameEn": "Operating Systems",
+      "grade": "N"
+    },
+    {
+      "term": "ภาคปลาย 2567",
+      "code": "01418261",
+      "credit": 3,
+      "nameTh": "หลักพื้นฐานของปัญญาประดิษฐ์",
+      "nameEn": "Fundamentals of Artificial Intelligence",
+      "grade": "N"
+    },
+    {
+      "term": "ภาคปลาย 2567",
+      "code": "01418232",
+      "credit": 3,
+      "nameTh": "การออกแบบและวิเคราะห์ขั้นตอนวิธี",
+      "nameEn": "Algorithm Design and Analysis",
+      "grade": "N"
+    },
+    {
+      "term": "ภาคปลาย 2567",
+      "code": "01418222",
+      "credit": 3,
+      "nameTh": "ระบบสารสนเทศวิสาหกิจ",
+      "nameEn": "Enterprise Information System",
+      "grade": "N"
+    },
+    {
+      "term": "ภาคปลาย 2567",
+      "code": "01417322",
+      "credit": 3,
+      "nameTh": "พีชคณิตเชิงเส้นพื้นฐาน",
+      "nameEn": "Basic Linear Algebra",
+      "grade": "N"
+    },
+    {
+      "term": "ภาคปลาย 2567",
+      "code": "01418221",
+      "credit": 3,
+      "nameTh": "ระบบข้อมูลเบื้องต้น",
+      "nameEn": "Fundamentals of Database Systems",
+      "grade": "N"
+    }
+  ]
+}
